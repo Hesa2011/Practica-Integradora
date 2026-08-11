@@ -1,0 +1,6 @@
+flask==3.*
+pyspark==4.*
+pykka==4.*
+numpy==2.*
+# Opcional: solo si tienes GPU NVIDIA + CUDA Toolkit instalado en Windows
+# cupy-cuda12x
